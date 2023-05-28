@@ -15,5 +15,8 @@
     "ignore": [
       "/test/"
     ]
+  },
+  "dependencies": {
+    "newman": "^5.3.2"
   }
 }
